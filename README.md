@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->i am LOW JIE SHENG and I am a first year student which studies at Universiti Teknologi Malaysia.
-🔭 I’m currently study in Universiti Teknologi Malaysia(UTM) as a undergraduate student.
-💬 Ask me about any things that i can answer.
-for more information you can email me: jiesheng.low@graduate.utm.my
+-🔭 I’m currently study in Universiti Teknologi Malaysia(UTM) as a undergraduate student.-
+-💬 Ask me about any things that i can answer.
+-for more information you can email me: jiesheng.low@graduate.utm.my
 
-THANK YOU FOR VISITING 😄😄😄
+-THANK YOU FOR VISITING 😄😄😄
