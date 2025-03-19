@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
--->i am LOW JIE SHENG and I am a first year student which studies at Universiti Teknologi Malaysia.
+-->i am LOW JIE SHENG and I am a third year student which studies at Universiti Teknologi Malaysia.
 -🔭 I’m currently study in Universiti Teknologi Malaysia(UTM) as a undergraduate student.
 
 -💬 Ask me about any things that i can answer.
