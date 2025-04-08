@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.jpg" alt="Low Jie Sheng" width="200"/>
+  <img src="6eebbf12-2af1-470b-a0d3-2db80a763164.jpg" alt="Low Jie Sheng" width="200"/>
 </p>
 
 <h1 align="center">Hi there, I am Low Jie Sheng 👋</h1>
