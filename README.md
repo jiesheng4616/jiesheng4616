@@ -42,23 +42,6 @@
 
 ## 🚀 Projects
 
-### 🔄 Ongoing Projects
-1. **Portfolio Website (Next.js + Tailwind CSS)**  
-   🌐 A modern and responsive portfolio website built using **Next.js** and **Tailwind CSS**.  
-   It showcases who I am, highlights my skills, and features my latest projects.  
-
----
-
-### ⭐ Recent Projects
-## 🚀 Projects
-
-### 🔄 Ongoing Projects
-1. **Portfolio Website (Next.js + Tailwind CSS)**  
-   🌐 A modern and responsive portfolio website built using **Next.js** and **Tailwind CSS**.  
-   It showcases who I am, highlights my skills, and features my latest projects.  
-
----
-
 ### ⭐ Recent Projects
 1. **[Kutip (Next.js + Supabase) 💻🗑️](https://github.com/mysarahzal/APPLICATION-DEVELOPMENT)**  
    A smart waste management system designed to improve efficiency, visibility, and accountability of urban bin collection operations.  
