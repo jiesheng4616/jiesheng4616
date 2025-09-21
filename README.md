@@ -42,16 +42,29 @@
 
 ## 🚀 Projects
 
-Here are some of the projects I’ve worked on. *(More projects coming soon!)*
+### 🔄 Ongoing Projects
+1. **Portfolio Website (Next.js + Tailwind CSS)**  
+   🌐 A modern and responsive portfolio website built using **Next.js** and **Tailwind CSS**.  
+   It showcases who I am, highlights my skills, and features my latest projects.  
 
-- **[Real-Time Sentiment Analysis](https://github.com/jiesheng4616/sentiment-analysis)**  
-  📊 Built with **Apache Spark** and **Kafka** to analyze Shopee reviews in real-time.  
+---
 
-- **[Student Accommodation System](https://github.com/jiesheng4616/ktdi-system)**  
-  🏠 Web app using **PHP + MySQL** for room booking and management.  
+### ⭐ Recent Projects
+1. **Kutip (Next.js + Supabase) 💻🗑️**  
+   A smart waste management system designed to improve efficiency, visibility, and accountability of urban bin collection operations.  
+   🚮 Combines **real-time bin tracking**, **IoT-driven data collection**, and an **admin dashboard** to optimize waste collection routes and ensure timely pickups.  
 
-- **[Project Placeholder]**  
-  🚧 Space reserved for upcoming projects — stay tuned!  
+2. **Real-Time Reddit Comment Sentiment Analysis System (with LSTM)**  
+   🧠 Sets up a **real-time sentiment analysis pipeline** for Reddit comments using a **Keras LSTM model**.  
+   ⚙️ Backend powered by **Apache Kafka, Apache Spark, Elasticsearch, and Kibana**, orchestrated with **Docker Compose**.  
+
+3. **Handwritten Digit Recognizer (TensorFlow.js + React) ✏️🔢**  
+   A web-based digit recognition app powered by a trained **TensorFlow CNN model**, running entirely in-browser with **TensorFlow.js** and deployed with a clean **React** interface.  
+   🔗 *Try it here!*  
+
+4. **Resume Manager (ASP.NET 8 MVC + Entity Framework) 🧑‍💼👩‍🔬**  
+   A dynamic **Master-Detail CRUD** application built using **ASP.NET 8 MVC** and **Entity Framework Core**.  
+   📋 Demonstrates how to add, remove, and manage master-detail records seamlessly in a single form using modern EF Core techniques.  
 
 ---
 
