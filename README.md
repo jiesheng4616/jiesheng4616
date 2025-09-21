@@ -61,7 +61,11 @@
 
 5. **[Data Management System – Youth Venture 📂🚀](https://github.com/danialharriz/groupA)**  
    A data management platform developed for **Youth Venture**, enabling efficient data collection, storage, and reporting.  
-   🔑 Focused on **CRUD operations, database integration, and user-friendly dashboards** to support organizational decision-making.  
+   🔑 Focused on **CRUD operations, database integration, and user-friendly dashboards** to support organizational decision-making.
+
+6. **[Group G – Malaysia News Analysis 📰⚡](https://github.com/drshahizan/HPDP/tree/main/2425/project/p1/GroupG)**  
+   A high-performance web scraping and analysis system for The Edge Malaysia, extracting over 110,000 news articles.
+   📊 Focused on data cleaning, transformation, and optimization using multithreading, Dask, and Polars, achieving faster processing and higher throughput.
 
 
 ## 🎯 Goals
