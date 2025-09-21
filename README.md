@@ -47,19 +47,15 @@
    A smart waste management system designed to improve efficiency, visibility, and accountability of urban bin collection operations.  
    🚮 Combines **real-time bin tracking**, **IoT-driven data collection**, and an **admin dashboard** to optimize waste collection routes and ensure timely pickups.  
 
-2. **Real-Time Reddit Comment Sentiment Analysis System (with LSTM)**  
-   🧠 Sets up a **real-time sentiment analysis pipeline** for Reddit comments using a **Keras LSTM model**.  
-   ⚙️ Backend powered by **Apache Kafka, Apache Spark, Elasticsearch, and Kibana**, orchestrated with **Docker Compose**.  
-
-3. **[Real-Time Sentiment Analysis using Apache Spark & Kafka💬⚡](https://github.com/drshahizan/HPDP/tree/main/2425/project/p2/GroupG)** 
+2. **[Real-Time Sentiment Analysis using Apache Spark & Kafka💬⚡](https://github.com/drshahizan/HPDP/tree/main/2425/project/p2/GroupG)** 
    A real-time big data pipeline for analyzing Malaysian social media and review sentiments using Apache Kafka, Spark, and NLP models.
    📊 Focused on streaming data ingestion, sentiment classification, and interactive dashboards with Elasticsearch/Druid for real-time insights.
 
-5. **[Data Management System – Youth Venture 📂🚀](https://github.com/danialharriz/groupA)**  
+3. **[Data Management System – Youth Venture 📂🚀](https://github.com/danialharriz/groupA)**  
    A data management platform developed for **Youth Venture**, enabling efficient data collection, storage, and reporting.  
    🔑 Focused on **CRUD operations, database integration, and user-friendly dashboards** to support organizational decision-making.
 
-6. **[Group G – Malaysia News Analysis 📰⚡](https://github.com/drshahizan/HPDP/tree/main/2425/project/p1/GroupG)**  
+4. **[Group G – Malaysia News Analysis 📰⚡](https://github.com/drshahizan/HPDP/tree/main/2425/project/p1/GroupG)**  
    A high-performance web scraping and analysis system for The Edge Malaysia, extracting over 110,000 news articles.
    📊 Focused on data cleaning, transformation, and optimization using multithreading, Dask, and Polars, achieving faster processing and higher throughput.
 
