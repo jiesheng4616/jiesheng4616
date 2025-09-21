@@ -51,13 +51,9 @@
    🧠 Sets up a **real-time sentiment analysis pipeline** for Reddit comments using a **Keras LSTM model**.  
    ⚙️ Backend powered by **Apache Kafka, Apache Spark, Elasticsearch, and Kibana**, orchestrated with **Docker Compose**.  
 
-3. **Handwritten Digit Recognizer (TensorFlow.js + React) ✏️🔢**  
-   A web-based digit recognition app powered by a trained **TensorFlow CNN model**, running entirely in-browser with **TensorFlow.js** and deployed with a clean **React** interface.  
-   🔗 *Try it here!*  
-
-4. **Resume Manager (ASP.NET 8 MVC + Entity Framework) 🧑‍💼👩‍🔬**  
-   A dynamic **Master-Detail CRUD** application built using **ASP.NET 8 MVC** and **Entity Framework Core**.  
-   📋 Demonstrates how to add, remove, and manage master-detail records seamlessly in a single form using modern EF Core techniques.  
+3. **[Real-Time Sentiment Analysis using Apache Spark & Kafka💬⚡](https://github.com/drshahizan/HPDP/tree/main/2425/project/p2/GroupG)** 
+   A real-time big data pipeline for analyzing Malaysian social media and review sentiments using Apache Kafka, Spark, and NLP models.
+   📊 Focused on streaming data ingestion, sentiment classification, and interactive dashboards with Elasticsearch/Druid for real-time insights.
 
 5. **[Data Management System – Youth Venture 📂🚀](https://github.com/danialharriz/groupA)**  
    A data management platform developed for **Youth Venture**, enabling efficient data collection, storage, and reporting.  
