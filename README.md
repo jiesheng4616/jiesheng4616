@@ -43,7 +43,7 @@
 ## 🚀 Projects
 
 ### ⭐ Recent Projects
-1. **[Kutip (Next.js + Supabase) 💻🗑️](https://github.com/mysarahzal/APPLICATION-DEVELOPMENT)**  
+1. **[Kutip (Project) 💻🗑️](https://github.com/mysarahzal/APPLICATION-DEVELOPMENT)**  
    A smart waste management system designed to improve efficiency, visibility, and accountability of urban bin collection operations.  
    🚮 Combines **real-time bin tracking**, **IoT-driven data collection**, and an **admin dashboard** to optimize waste collection routes and ensure timely pickups.  
 
